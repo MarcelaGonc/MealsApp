@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8015ED43-9A1F-4AC6-873E-BF7A62539466"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "931AD375-38B2-4197-BB16-2B93E61E07B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getCategory(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "931AD375-38B2-4197-BB16-2B93E61E07B0 - 87746b252e03adef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "931AD375-38B2-4197-BB16-2B93E61E07B0 - 385c808592dabec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "931AD375-38B2-4197-BB16-2B93E61E07B0 - 87746b252e03adef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "931AD375-38B2-4197-BB16-2B93E61E07B0 - 87746b252e03adef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "931AD375-38B2-4197-BB16-2B93E61E07B0 - 87746b252e03adc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "931AD375-38B2-4197-BB16-2B93E61E07B0 - 385c808592dabeef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8AFB43A-75AB-4CCD-B816-BCA4DA5B0623"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getCategory(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8AFB43A-75AB-4CCD-B816-BCA4DA5B0623 - 385c808592dabf8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "B8AFB43A-75AB-4CCD-B816-BCA4DA5B0623 - 385c808592dabf8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "B8AFB43A-75AB-4CCD-B816-BCA4DA5B0623 - 385c808592dabf8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "B8AFB43A-75AB-4CCD-B816-BCA4DA5B0623 - 385c808592dabfa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "B8AFB43A-75AB-4CCD-B816-BCA4DA5B0623 - 385c808592dabfa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.getCategory(completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.Category&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DC18880-480F-4F65-BCB7-F3130A26513B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getCategory(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C9279A2-9D09-40BB-8875-ECB0286BA6D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getCategory(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E4E924E-5D29-4CBA-8F3C-984E11F041C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getCategory(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51BBAAD7-DC41-4528-BE2E-D2BEB6FC27F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Utils/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "getMeal(withID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51BBAAD7-DC41-4528-BE2E-D2BEB6FC27F9 - 547aedf7db2aa9cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.getMeal(withID: Swift.String, completion: (Swift.Result&lt;MealsApp.MealModel, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "51BBAAD7-DC41-4528-BE2E-D2BEB6FC27F9 - 8c8e5e692edacbd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.getMeal(withID: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.ItensModel&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "51BBAAD7-DC41-4528-BE2E-D2BEB6FC27F9 - 8c8e5e692edacbd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.getMeal(withID: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;MealsApp.MealDetail&gt;, MealsApp.MAError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9EB5CF7-C22A-4CEC-86DF-B374CCE015D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Screens/MealView/MealDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getMeals(mealId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9EB5CF7-C22A-4CEC-86DF-B374CCE015D9 - e62a848db64e8472"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;MealsApp.MealDetail&gt;, MealsApp.MAError&gt;) -&gt; () in MealsApp.MealDetailsViewModel.getMeals(mealId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Screens/MealView/MealDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "B9EB5CF7-C22A-4CEC-86DF-B374CCE015D9 - e62a848db64e8472"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;MealsApp.MealDetail&gt;, MealsApp.MAError&gt;) -&gt; () in MealsApp.MealDetailsViewModel.getMeals(mealId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Screens/MealView/MealDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8F531F1-AEF5-40E0-BA56-691E91884253"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Screens/MealView/MealDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getMeals(mealId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8F531F1-AEF5-40E0-BA56-691E91884253 - e62a848db64e85d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;MealsApp.MealDetail&gt;, MealsApp.MAError&gt;) -&gt; () in MealsApp.MealDetailsViewModel.getMeals(mealId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Screens/MealView/MealDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "F8F531F1-AEF5-40E0-BA56-691E91884253 - e62a848db64e85d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;MealsApp.MealDetail&gt;, MealsApp.MAError&gt;) -&gt; () in MealsApp.MealDetailsViewModel.getMeals(mealId: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Screens/MealView/MealDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "926DC479-5AA3-4D95-B803-CD8D0E0275FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Screens/MealsListView/MealsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getMeals(category:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "926DC479-5AA3-4D95-B803-CD8D0E0275FA - 2100891515961065"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;MealsApp.MealsModel&gt;, MealsApp.MAError&gt;) -&gt; () in MealsApp.MealsListViewModel.getMeals(category: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Screens/MealsListView/MealsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "926DC479-5AA3-4D95-B803-CD8D0E0275FA - 2100891515961065"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;MealsApp.MealsModel&gt;, MealsApp.MAError&gt;) -&gt; () in MealsApp.MealsListViewModel.getMeals(category: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Screens/MealsListView/MealsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6835575-8CAA-4A6A-A940-59C2CBA51854"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Views/Image/RemoteImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "load(fromURLString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E804EFE-5B64-4798-9653-A52DF061B900"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Views/Image/RemoteImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "load(fromURLString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E804EFE-5B64-4798-9653-A52DF061B900 - 91013999215c04aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.ImageLoader.load(fromURLString: Swift.String) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Views/Image/RemoteImage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1E804EFE-5B64-4798-9653-A52DF061B900 - 77927c54f73cce92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in MealsApp.ImageLoader.load(fromURLString: Swift.String) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Views/Image/RemoteImage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58491B7B-AF93-4EEA-9F24-C01ABFB6CE57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Views/Image/RemoteImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "load(fromURLString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81A61134-652B-4366-B95C-05865FA21AFE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Views/Image/RemoteImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "load(fromURLString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "81A61134-652B-4366-B95C-05865FA21AFE - 77927c54f73cce50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in MealsApp.ImageLoader.load(fromURLString: Swift.String) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Views/Image/RemoteImage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "81A61134-652B-4366-B95C-05865FA21AFE - 9dda49ae9f45c16b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in MealsApp.ImageLoader.load(fromURLString: Swift.String) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Views/Image/RemoteImage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA4022C1-3B9A-4A5D-8C5F-23BE8E7AB246"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Views/Image/RemoteImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "load(fromURLString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E45B3F13-258A-4020-B567-06404E3DC92E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Utils/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "downloadImage(fromUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E45B3F13-258A-4020-B567-06404E3DC92E - fee2aa2950caaed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.downloadImage(fromUrlString: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "E45B3F13-258A-4020-B567-06404E3DC92E - fee2aa2950caaed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.downloadImage(fromUrlString: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "E45B3F13-258A-4020-B567-06404E3DC92E - fee2aa2950caaf88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.downloadImage(fromUrlString: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "E45B3F13-258A-4020-B567-06404E3DC92E - fee2aa2950caaf88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MealsApp.NetworkManager.downloadImage(fromUrlString: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EFB518F-481D-44A7-B574-A31FECCD2568"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Utils/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "downloadImage(fromUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDC1DAA6-C695-4496-B9CB-133317D1F884"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Utils/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "downloadImage(fromUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4154DD36-2EE0-4D53-98A4-46C51C97ACD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Utils/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "downloadImage(fromUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4154DD36-2EE0-4D53-98A4-46C51C97ACD0 - 660fe26ffc61b7d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.downloadImage(fromUrlString: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "4154DD36-2EE0-4D53-98A4-46C51C97ACD0 - 660fe26ffc61b7d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.downloadImage(fromUrlString: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "4154DD36-2EE0-4D53-98A4-46C51C97ACD0 - 660fe26ffc61b6ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.downloadImage(fromUrlString: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "4154DD36-2EE0-4D53-98A4-46C51C97ACD0 - 660fe26ffc61b6ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsApp.NetworkManager.downloadImage(fromUrlString: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsApp/Utils/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "298CEF17-6E56-4963-BB13-CFD21AE25BA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsApp/Utils/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "downloadImage(fromUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73870E8B-CA1C-47E2-A24F-53C7DDA0E64A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsAppTests/MealsAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "testGetCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73870E8B-CA1C-47E2-A24F-53C7DDA0E64A - e15b9672e78cd0c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsAppTests.CategoryViewModelTests.testGetCategories() throws -&gt; ()"
+                  moduleName = "MealsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsAppTests/MealsAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "73870E8B-CA1C-47E2-A24F-53C7DDA0E64A - 6a76375ae4e760d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MealsApp.Categories&gt;) -&gt; () in MealsAppTests.CategoryViewModelTests.testGetCategories() throws -&gt; ()"
+                  moduleName = "MealsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Projetos/MealsApp/MealsAppTests/MealsAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
